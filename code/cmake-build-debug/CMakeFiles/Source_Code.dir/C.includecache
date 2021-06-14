@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/valerija/CLionProjects/Source Code/header.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+signal.h
+-
+sys/types.h
+-
+sys/wait.h
+-
+memory.h
+-
+unistd.h
+-
+stdbool.h
+-
+errno.h
+-
+fcntl.h
+-
+
+/Users/valerija/CLionProjects/Source Code/main.c
+header.h
+/Users/valerija/CLionProjects/Source Code/header.h
+

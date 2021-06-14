@@ -1,0 +1,3 @@
+/Users/valerija/CLionProjects/Source Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/valerija/CLionProjects/Source Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/valerija/CLionProjects/Source Code/cmake-build-debug/CMakeFiles/Source_Code.dir
